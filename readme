@@ -1,0 +1,14 @@
+Jorge Medina
+Twitter Sentiment Analysis - "Radeon"
+
+This is a project where the Twitter API was used to extract tweets using a search word.
+The search word for this project was 'Radeon'.
+
+Radeon is the name of AMD discrete video cards. The Radeon search word was used to analyze the tweets during the GPU shortage
+due to the crypto mining phaze.
+
+Most of the results were from bots posting links to restockings of the video cards. The majority of people relly on some sort of 
+social media to find resellers.
+
+After filtering the results, I applied a sentiment analysis algorithm to analyze the words and tweets being used in the sampled tweets.
+Most of the results were neutral or positive since the tweets were sponsoring a restock.
